@@ -27,8 +27,7 @@ int i = 0;
         if (arr[x] < value) {
             i = x;
             x++;
-        }
-        else {
+        } else {
             j = x - 1;
             x--;
         }
